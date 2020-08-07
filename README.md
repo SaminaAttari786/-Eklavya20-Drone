@@ -3,7 +3,7 @@
 # DRONE SIMULATION PROJECT
 Simulated drone model which flies to a given destination along with obstacle avoidance. 
 
-## TABLE OF CONTENTS
+### TABLE OF CONTENTS
    * [About the Project](#about-the-project)
    
      [Tech Stack](#tech-stack)
